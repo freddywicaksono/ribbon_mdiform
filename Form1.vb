@@ -1,5 +1,4 @@
-﻿Imports DevComponents.DotNetBar
-Public Class Form1
+﻿Public Class Form1
 
     Private Sub btnAddUser_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnAddUser.Click
         If (menu_user = False) Then
